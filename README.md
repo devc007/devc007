@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @devc007
-- 👀 I’m interested in DevOps.
-- 🌱 I’m currently learning ...
+- 👋 Hello everyone! Devesh Chouhan here, I am a CSE undergrade. 
+- 👀 I’m interested in DevOps and understanding the full picture of SDLC.
+- 🌱 I’m currently learning computer networking, CI/CD.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
@@ -10,3 +10,4 @@
 devc007/devc007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+    
