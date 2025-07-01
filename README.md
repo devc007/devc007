@@ -1,20 +1,48 @@
-<h1 align="center">Hi 👋, I'm Devesh Chouhan</h1>
-<h3 align="center">I am a DevOps Engineer</h3>
+<h1 align="center">Devesh of House Chouhan 👑</h1>
+<h3 align="center">First of His Name, Guardian of Uptime, Wielder of YAML,<br>Breaker of Build Fails, and Orchestrator of Clusters</h3>
 
+---
 
+### 🧙 About Me
 
-<h3 align="left">Tech-stack:</h3>
-<p align="left"> <img src="{https://img.shields.io/badge/Jenkins-49728B?style=for-the-badge&logo=jenkins&logoColor=white}" /> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+- 💻 DevOps Engineer | Automating the Realm, one pipeline at a time
+- ⚙️ Passionate about CI/CD, infrastructure as code, and container orchestration
+- 📊 Always monitoring, always optimizing, always deploying
+- 🛠️ Currently working with: Kubernetes, Docker, Terraform, GitHub Actions, Jenkins
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 🧰 Tech Stack
+
 <p align="left">
-<a href="https://dev.to/https://dev.to/devesh_chouhan_cse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/devesh_chouhan_cse" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/devesh chouhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devesh chouhan" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/YAML-000000?style=for-the-badge&logo=yaml&logoColor=white" />
 </p>
 
+---
 
-<h1>Tech-stack</h1>
-<img src="https://img.shields.io/badge/Jenkins-49728B?style=for-the-badge&logo=jenkins&logoColor=white" />
-![image](https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&logo=kubernetes&logoColor=white)
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devc007&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devc007&theme=tokyonight" />
+</p>
+
+---
+
+### ✨ Quote of the Realm
+
+> *"What is dead may never die... but can always be redeployed."*
+
+---
+
+### 📫 Connect With Me
+
+
 
 [![Devesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=devc007)](https://github.com/devc007/github-readme-stats)
