@@ -15,3 +15,4 @@
 
 <h1>Tech-stack</h1>
 <img src="{https://img.shields.io/badge/Jenkins-49728B?style=for-the-badge&logo=jenkins&logoColor=white}" />
+![k8s]({https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&logo=kubernetes&logoColor=white})
