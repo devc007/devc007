@@ -16,3 +16,5 @@
 <h1>Tech-stack</h1>
 <img src="https://img.shields.io/badge/Jenkins-49728B?style=for-the-badge&logo=jenkins&logoColor=white" />
 ![image](https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+[![Devesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=devc007)](https://github.com/devc007/github-readme-stats)
