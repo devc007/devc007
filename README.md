@@ -1,5 +1,5 @@
-<h1 align="center">Devesh of House Chouhan 👑</h1>
-<h3 align="center">First of His Name, Guardian of Uptime, Wielder of YAML,<br>Breaker of Build Fails, and Orchestrator of Clusters</h3>
+<h1 align="center">Hi I am Devesh Chauhan</h1>
+<h3 align="center">DevOps Engineer from India</h3>
 
 ---
 
@@ -43,6 +43,3 @@
 
 ### 📫 Connect With Me
 
-
-
-[![Devesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=devc007)](https://github.com/devc007/github-readme-stats)
