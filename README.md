@@ -4,6 +4,7 @@
 ---
 
 ### 🧙 About Me
+![](https://komarev.com/ghpvc/?username=devc007&color=blue)
 
 - 💻 DevOps Engineer | Automating the Realm, one pipeline at a time
 - ⚙️ Passionate about CI/CD, infrastructure as code, and container orchestration
